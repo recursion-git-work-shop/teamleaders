@@ -1,4 +1,4 @@
-# チームリーダーが行う準備、役割について
+# チームリーダーの役割について
 
 リポジトリの作成、チェックリストの確認など
 
@@ -8,3 +8,5 @@
 チェックリスト→https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md
 
 また異常があればメンターに適宜報告していただきたいです。
+
+## チームリーダーの役割
