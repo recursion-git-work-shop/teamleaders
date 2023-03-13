@@ -64,5 +64,5 @@ https://github.com/recursion-git-work-shop/task1
 
 ### ②矢印マークをクリック後、ブランチをmainからdevelopに変更
 
-<img width="1070" alt="スクリーンショット 2023-03-13 17 38 18" src="https://user-images.githubusercontent.com/91725975/224649226-47f34f29-fb72-4e71-8bbb-59d295d4950e.png">
+<img width="1070" alt="スクリーンショット 2023-03-13 17 40 22" src="https://user-images.githubusercontent.com/91725975/224649599-79236f85-867c-4ba2-923d-89a164be23fa.png">
 
