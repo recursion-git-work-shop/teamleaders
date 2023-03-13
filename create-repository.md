@@ -17,7 +17,7 @@
 
 <img width="1440" alt="スクリーンショット 2023-03-13 15 59 15" src="https://user-images.githubusercontent.com/91725975/224647076-ec31907b-2160-4bde-9f9a-bb6ae0a26b8d.png">
 
-### ⑥oraganizationをpublicで作成
+### ⑥oraganizationを作成
 
 ※名前はチームがわかるように色を入れてください（teamdev-Red等）
 
@@ -30,7 +30,7 @@
 
 
 ## 2.チーム開発用リポジトリの作り方
-チームリーダーには、task1という課題用のリポジトリとwork-spaceという開発用のリポジトリ、これら少なくとも２つのリポジトリを作っていただきます。
+チームリーダーには、task1という課題用のリポジトリとwork-spaceという開発用のリポジトリ、これら少なくとも２つのpublicリポジトリを作っていただきます。
 
 完成図としてはこのようになります
 
