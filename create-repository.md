@@ -1,6 +1,12 @@
 # チーム開発で使うリポジトリの作成方法
 
-## 1.Oraganizationの作成とメンバーの招待
+1. Oraganizationの作成とメンバーの招待
+2. チーム開発用リポジトリの作り方
+3. ブランチの作成方法
+4. デフォルトブランチの設定方法
+
+
+## 1.　Oraganizationの作成とメンバーの招待
 ### ①アイコンマークをクリック
 <img width="1074" alt="スクリーンショット 2023-03-13 16 20 06" src="https://user-images.githubusercontent.com/91725975/224633436-d5d97be1-89a2-4194-86d1-25189486a040.png">
 
@@ -29,7 +35,7 @@
 <img width="1440" alt="スクリーンショット 2023-03-13 16 15 21" src="https://user-images.githubusercontent.com/91725975/224636047-5f369c56-ca1e-44ff-b3c5-de104288a1c2.png">
 
 
-## 2.チーム開発用リポジトリの作り方
+## 2.　チーム開発用リポジトリの作り方
 チームリーダーには、task1という課題用のリポジトリとwork-spaceという開発用のリポジトリ、これら少なくとも２つのpublicリポジトリを作っていただきます。
 
 完成図としてはこのようになります
@@ -45,7 +51,7 @@ https://github.com/recursion-git-work-shop/task1
 
 <img width="1438" alt="スクリーンショット 2023-03-13 17 16 46" src="https://user-images.githubusercontent.com/91725975/224644407-d8516238-64e9-438a-b5a3-db4d0b9d16f7.png">
 
-## 3.ブランチの作成方法
+## 3.　ブランチの作成方法
 ### ①branchをクリック
 <img width="1070" alt="スクリーンショット 2023-03-13 17 22 00" src="https://user-images.githubusercontent.com/91725975/224645625-526141f8-8358-4364-b896-1de5056b979d.png">
 
@@ -56,7 +62,7 @@ https://github.com/recursion-git-work-shop/task1
 
 <img width="1438" alt="スクリーンショット 2023-03-13 17 18 34" src="https://user-images.githubusercontent.com/91725975/224646456-d9ae1aa7-2ae2-40c1-8e54-00e335210a0c.png">
 
-## 4.デフォルトブランチの設定方法
+## 4.　デフォルトブランチの設定方法
 
 ### ①settingsをクリック後、branchesをクリック
 
