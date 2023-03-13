@@ -40,4 +40,8 @@ https://github.com/recursion-git-work-shop/task1
 <img width="1438" alt="スクリーンショット 2023-03-13 17 16 46" src="https://user-images.githubusercontent.com/91725975/224644407-d8516238-64e9-438a-b5a3-db4d0b9d16f7.png">
 
 ## 3.ブランチの作成方法
+①branchesをクリック
+<img width="1070" alt="スクリーンショット 2023-03-13 17 22 00" src="https://user-images.githubusercontent.com/91725975/224645625-526141f8-8358-4364-b896-1de5056b979d.png">
+
+②
 ## 4.デフォルトブランチの設定方法
