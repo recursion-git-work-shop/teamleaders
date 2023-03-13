@@ -30,5 +30,14 @@
 
 <img width="1438" alt="スクリーンショット 2023-03-13 16 56 44" src="https://user-images.githubusercontent.com/91725975/224640628-a627741b-3bd4-414b-963f-fb037cf79bcb.png">
 
+### task1リポジトリについて
+コチラで用意したtask1リポジトリを参考にファイル構成や中身も全く同じように作成してください。
+
+そのリポジトリを使用してチームメンバーと課題に取り組んでいただきます。
+
+https://github.com/recursion-git-work-shop/task1
+
+<img width="1438" alt="スクリーンショット 2023-03-13 17 16 46" src="https://user-images.githubusercontent.com/91725975/224644407-d8516238-64e9-438a-b5a3-db4d0b9d16f7.png">
+
 ## 3.ブランチの作成方法
 ## 4.デフォルトブランチの設定方法
