@@ -15,7 +15,13 @@
 
 ### ⑤free planを選択
 
-### ⑥oraganizationの名前はチームがわかるように色を入れてください（teamdev-Red等）
+<img width="1440" alt="スクリーンショット 2023-03-13 15 59 15" src="https://user-images.githubusercontent.com/91725975/224647076-ec31907b-2160-4bde-9f9a-bb6ae0a26b8d.png">
+
+### ⑥oraganizationをpublicで作成
+
+※名前はチームがわかるように色を入れてください（teamdev-Red等）
+
+<img width="1440" alt="スクリーンショット 2023-03-13 16 01 28" src="https://user-images.githubusercontent.com/91725975/224647151-198147d5-373b-4f3b-be3f-9fda917a2e31.png">
 
 ### ⑦invite memberをクリックし、チームメンバーを検索、owner権限で招待する
 <img width="1440" alt="スクリーンショット 2023-03-13 16 02 47" src="https://user-images.githubusercontent.com/91725975/224635577-56211599-cde8-4989-a5c2-3e276e179d31.png">
