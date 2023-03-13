@@ -40,8 +40,14 @@ https://github.com/recursion-git-work-shop/task1
 <img width="1438" alt="スクリーンショット 2023-03-13 17 16 46" src="https://user-images.githubusercontent.com/91725975/224644407-d8516238-64e9-438a-b5a3-db4d0b9d16f7.png">
 
 ## 3.ブランチの作成方法
-①branchesをクリック
+### ①branchをクリック
 <img width="1070" alt="スクリーンショット 2023-03-13 17 22 00" src="https://user-images.githubusercontent.com/91725975/224645625-526141f8-8358-4364-b896-1de5056b979d.png">
 
-②
+### ②画面右、new branchをクリック
+<img width="1438" alt="スクリーンショット 2023-03-13 17 18 12" src="https://user-images.githubusercontent.com/91725975/224646043-4467aef9-cd8d-45a5-a925-9ef780256bbe.png">
+
+### ③画面右、new branchをクリック、ブランチ名はdevelopで作成
+
+<img width="1438" alt="スクリーンショット 2023-03-13 17 18 34" src="https://user-images.githubusercontent.com/91725975/224646456-d9ae1aa7-2ae2-40c1-8e54-00e335210a0c.png">
+
 ## 4.デフォルトブランチの設定方法
