@@ -57,3 +57,12 @@ https://github.com/recursion-git-work-shop/task1
 <img width="1438" alt="スクリーンショット 2023-03-13 17 18 34" src="https://user-images.githubusercontent.com/91725975/224646456-d9ae1aa7-2ae2-40c1-8e54-00e335210a0c.png">
 
 ## 4.デフォルトブランチの設定方法
+
+### ①settingsをクリック後、branchesをクリック
+
+<img width="1070" alt="スクリーンショット 2023-03-13 17 35 28" src="https://user-images.githubusercontent.com/91725975/224648592-291ccd47-8a67-496b-818d-36fca52dd9a2.png">
+
+### ②矢印マークをクリック後、ブランチをmainからdevelopに変更
+
+<img width="1070" alt="スクリーンショット 2023-03-13 17 38 18" src="https://user-images.githubusercontent.com/91725975/224649226-47f34f29-fb72-4e71-8bbb-59d295d4950e.png">
+
