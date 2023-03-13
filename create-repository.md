@@ -1,5 +1,28 @@
 # チーム開発で使うリポジトリの作成方法
 
-## 1.チーム用リポジトリの作り方
+## 1.Oraganizationの作成とメンバーの招待
+### ①アイコンマークをクリック
+<img width="1074" alt="スクリーンショット 2023-03-13 16 20 06" src="https://user-images.githubusercontent.com/91725975/224633436-d5d97be1-89a2-4194-86d1-25189486a040.png">
+
+### ②settingsをクリック
+<img width="310" alt="スクリーンショット 2023-03-13 15 58 18" src="https://user-images.githubusercontent.com/91725975/224633587-3a762b9d-642e-48a7-ad51-be4072f62647.png">
+
+### ③Oraganizationsをクリック
+<img width="1074" alt="スクリーンショット 2023-03-13 16 23 05" src="https://user-images.githubusercontent.com/91725975/224633890-466fdbd5-5270-440b-a227-24ef7e5a7467.png">
+
+### ④New oraganizationをクリック
+<img width="1074" alt="スクリーンショット 2023-03-13 16 24 32" src="https://user-images.githubusercontent.com/91725975/224634127-29f7fc1d-fe24-4d0e-89cd-75a523fe7d4f.png">
+
+### ⑤free planを選択
+
+### ⑥oraganizationの名前はチームがわかるように色を入れてください（teamdev-Red等）
+
+### ⑦invite memberをクリックし、チームメンバーを検索、owner権限で招待する
+<img width="1440" alt="スクリーンショット 2023-03-13 16 02 47" src="https://user-images.githubusercontent.com/91725975/224635577-56211599-cde8-4989-a5c2-3e276e179d31.png">
+
+<img width="1440" alt="スクリーンショット 2023-03-13 16 15 21" src="https://user-images.githubusercontent.com/91725975/224636047-5f369c56-ca1e-44ff-b3c5-de104288a1c2.png">
+
+
+## 1.リポジトリの作り方
 ## 2.ブランチの作成方法
 ## 3.デフォルトブランチの設定方法
