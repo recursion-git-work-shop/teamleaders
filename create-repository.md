@@ -23,7 +23,7 @@ Organizationとは、複数のリポジトリをさまざまなユーザーで�
 ### ②settingsをクリック
 <img width="310" alt="スクリーンショット 2023-03-13 15 58 18" src="https://user-images.githubusercontent.com/91725975/224633587-3a762b9d-642e-48a7-ad51-be4072f62647.png">
 
-### ③Oraganizationsをクリック
+### ③Organizationsをクリック
 <img width="1074" alt="スクリーンショット 2023-03-13 16 23 05" src="https://user-images.githubusercontent.com/91725975/224633890-466fdbd5-5270-440b-a227-24ef7e5a7467.png">
 
 ### ④New oraganizationをクリック
