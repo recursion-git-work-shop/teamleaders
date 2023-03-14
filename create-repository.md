@@ -9,9 +9,9 @@
 
 
 
-## 1.　Oraganizationの作成とメンバーの招待
-## Oraganizationの説明
-Oraganizationとは、複数のリポジトリをさまざまなユーザーで管理、および共同作業するための機能です。
+## 1.　Organizationの作成とメンバーの招待
+## Organizationの説明
+Organizationとは、複数のリポジトリをさまざまなユーザーで管理、および共同作業するための機能です。
 
 参考図
 <img width="1438" alt="スクリーンショット 2023-03-13 16 56 44" src="https://user-images.githubusercontent.com/91725975/224640628-a627741b-3bd4-414b-963f-fb037cf79bcb.png">
