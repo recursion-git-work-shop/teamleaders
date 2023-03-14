@@ -1,7 +1,9 @@
 # チームリーダーの役割について
 
 ## 概要
-チームリーダーには
+チームリーダーにはメンバーとのコミュニケーションと進捗の管理やサポートを行っていただきます。
+
+具体的には：
 1. [チェックリストの項目を各メンバーが満たしているかを定期的に確認する](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md)
 2. 異常があればメンターに適宜報告（通信環境が悪い人がいる、連絡がつかなくなった人がいる等）
 3. [チェックリストの提出](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md)　提出時はdiscordにチームのリポジトリを貼ってください
@@ -11,6 +13,8 @@
 7. [デプロイ](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/deploy.md)
 
 これらをやっていただきたいです。
+
+またチームで集まる際には[Oviceの画面共有機能](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/util.md)を有効活用してください。
 
 ## スケジュール
 スケジュールについては参考例であり、デプロイ以外のチェックリストのタスクを１周目（3/25）までに完了していれば構いません。
