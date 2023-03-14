@@ -16,7 +16,7 @@ Oraganizationとは、複数のリポジトリをさまざまなユーザーで�
 参考図
 <img width="1438" alt="スクリーンショット 2023-03-13 16 56 44" src="https://user-images.githubusercontent.com/91725975/224640628-a627741b-3bd4-414b-963f-fb037cf79bcb.png">
 
-
+### 作成手順
 ### ①アイコンマークをクリック
 <img width="1074" alt="スクリーンショット 2023-03-13 16 20 06" src="https://user-images.githubusercontent.com/91725975/224633436-d5d97be1-89a2-4194-86d1-25189486a040.png">
 
