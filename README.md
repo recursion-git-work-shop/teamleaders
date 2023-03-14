@@ -2,12 +2,13 @@
 
 ## 概要
 チームリーダーには
-1. チェックリストの項目を各メンバーが満たしているかを定期的に確認する。
+1. [チェックリストの項目を各メンバーが満たしているかを定期的に確認する](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md)
 2. 異常があればメンターに適宜報告（通信環境が悪い人がいる、連絡がつかなくなった人がいる等）
-3. チェックリストの提出　https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md
-4. チームのリポジトリの作成　https://github.com/recursion-git-work-shop/teamleaders/blob/develop/create-repository.md
-5. チームで集まり、課題を完了する　https://github.com/recursion-git-work-shop/task1/blob/develop/README.md
-6. チームで集まり、作成する成果物を確定する　https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/portfolios.md
+3. [チェックリストの提出](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md)
+4. [チームのリポジトリの作成](https://github.com/recursion-git-work-shop/teamleaders/blob/develop/create-repository.md)
+5. [チームで集まり、課題を完了する](https://github.com/recursion-git-work-shop/task1/blob/develop/README.md)
+6. [チームで集まり、作成する成果物を確定する](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/portfolios.md)
+
 7. デプロイ
 
 これらをやっていただきたいです。
