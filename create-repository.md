@@ -52,6 +52,18 @@ Oraganizationとは、複数のリポジトリをさまざまなユーザーで�
 
 <img width="1438" alt="スクリーンショット 2023-03-13 16 56 44" src="https://user-images.githubusercontent.com/91725975/224640628-a627741b-3bd4-414b-963f-fb037cf79bcb.png">
 
+### リポジトリの作成方法
+
+①new repositoryをクリック
+<img width="1438" alt="スクリーンショット 2023-03-13 16 50 23" src="https://user-images.githubusercontent.com/91725975/224907155-1ceb82f1-809c-4beb-977b-224b6157c7bc.png">
+
+②publicを選択
+<img width="1438" alt="スクリーンショット 2023-03-13 16 51 12" src="https://user-images.githubusercontent.com/91725975/224907177-d4d2dcbb-2453-4728-bf2d-6836716f5324.png">
+
+③２つ目のリポジトリからは画面右のnew repositoryをクリック
+<img width="1438" alt="スクリーンショット 2023-03-13 16 51 34" src="https://user-images.githubusercontent.com/91725975/224907255-d32b4ad1-3ec8-47d2-9e59-54c3c776f113.png">
+
+
 ### task1リポジトリについて
 コチラで用意した[task1リポジトリ](https://github.com/recursion-git-work-shop/task1)を参考にファイル構成や中身も全く同じように作成してください。
 
