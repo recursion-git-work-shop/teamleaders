@@ -82,7 +82,7 @@ Oraganizationとは、複数のリポジトリをさまざまなユーザーで�
 
 <img width="1438" alt="スクリーンショット 2023-03-13 17 18 34" src="https://user-images.githubusercontent.com/91725975/224646456-d9ae1aa7-2ae2-40c1-8e54-00e335210a0c.png">
 
-## 4.　デフォルトブランチの設定方法
+## 4.　デフォルトブランチの設定方法（今回の開発では全リポジトリに以下の設定を適応してください）
 
 ### ①settingsをクリック後、branchesをクリック
 
