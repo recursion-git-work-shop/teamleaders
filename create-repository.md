@@ -65,7 +65,7 @@ Oraganizationとは、複数のリポジトリをさまざまなユーザーで�
 
 
 ### task1リポジトリについて
-コチラで用意した[task1リポジトリ](https://github.com/recursion-git-work-shop/task1)を参考にファイル構成や中身も全く同じように作成してください。
+task1リポジトリはコチラで用意した[task1リポジトリ](https://github.com/recursion-git-work-shop/task1)を参考にファイル構成や中身も全く同じように作成してください。
 
 このリポジトリを使用してチームメンバーと課題に取り組んでいただきます。
 
