@@ -7,7 +7,7 @@
 1. [チェックリストの項目を各メンバーが満たしているかを定期的に確認する](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md)
 2. 異常があればメンターに適宜報告（通信環境が悪い人がいる、連絡がつかなくなった人がいる等）
 3. [チームのリポジトリの作成](https://github.com/recursion-git-work-shop/teamleaders/blob/develop/create-repository.md)
-4. [チームで集まり、課題1を完了する](https://github.com/recursion-git-work-shop/task1/blob/develop/README.md)
+4. [チームで集まり、課題1を完了する](https://github.com/recursion-git-work-shop/task1/blob/develop/README.md)　できれば2周以上やってほしいです。
 5. [チームで集まり、作成する成果物を決定する](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/portfolios.md)
 6. [チェックリストの提出](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md)　1周目が終わるまでに提出してください。提出時はdiscordにチームのリポジトリを貼ってください。
 7. [デプロイ](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/deploy.md)
