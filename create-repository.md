@@ -78,7 +78,7 @@ Oraganizationとは、複数のリポジトリをさまざまなユーザーで�
 ### ②画面右、new branchをクリック
 <img width="1438" alt="スクリーンショット 2023-03-13 17 18 12" src="https://user-images.githubusercontent.com/91725975/224646043-4467aef9-cd8d-45a5-a925-9ef780256bbe.png">
 
-### ③ブランチ名はdevelopで作成
+### ③ブランチ名はdevelopで作成（今回の開発では全リポジトリに以下の設定を適応してください）
 
 <img width="1438" alt="スクリーンショット 2023-03-13 17 18 34" src="https://user-images.githubusercontent.com/91725975/224646456-d9ae1aa7-2ae2-40c1-8e54-00e335210a0c.png">
 
