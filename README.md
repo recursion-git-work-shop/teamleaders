@@ -8,8 +8,7 @@
 4. [チームのリポジトリの作成](https://github.com/recursion-git-work-shop/teamleaders/blob/develop/create-repository.md)
 5. [チームで集まり、課題を完了する](https://github.com/recursion-git-work-shop/task1/blob/develop/README.md)
 6. [チームで集まり、作成する成果物を確定する](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/portfolios.md)
-
-7. デプロイ
+7. [デプロイ](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/deploy.md)
 
 これらをやっていただきたいです。
 
