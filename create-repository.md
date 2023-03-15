@@ -39,7 +39,7 @@ Organizationとは、複数のリポジトリをさまざまなユーザーで�
 
 <img width="1440" alt="スクリーンショット 2023-03-13 16 01 28" src="https://user-images.githubusercontent.com/91725975/224647151-198147d5-373b-4f3b-be3f-9fda917a2e31.png">
 
-### ⑦invite memberをクリックし、チームメンバーを検索、owner権限で招待する(招待は後ででもできます)
+### ⑦invite memberをクリックし、チームメンバーを検索、owner権限で招待する(メンバーの招待はいつでもできます)
 <img width="1440" alt="スクリーンショット 2023-03-13 16 02 47" src="https://user-images.githubusercontent.com/91725975/224635577-56211599-cde8-4989-a5c2-3e276e179d31.png">
 
 <img width="1440" alt="スクリーンショット 2023-03-13 16 15 21" src="https://user-images.githubusercontent.com/91725975/224636047-5f369c56-ca1e-44ff-b3c5-de104288a1c2.png">
