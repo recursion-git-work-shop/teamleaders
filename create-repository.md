@@ -70,6 +70,7 @@ task1リポジトリはコチラで用意した[task1リポジトリ](https://gi
 - checklist.md
 - index.html
 - style.css
+- 
 このリポジトリを使用してチームメンバーと課題に取り組んでいただきます。
 
 <img width="1438" alt="スクリーンショット 2023-03-13 17 16 46" src="https://user-images.githubusercontent.com/91725975/224644407-d8516238-64e9-438a-b5a3-db4d0b9d16f7.png">
