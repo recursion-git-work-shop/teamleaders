@@ -9,7 +9,7 @@
 3. [チームのリポジトリの作成](https://github.com/recursion-git-work-shop/teamleaders/blob/develop/create-repository.md)
 4. [チームで集まり、課題1を完了する](https://github.com/recursion-git-work-shop/task1/blob/develop/README.md)　2周以上やってください。
 5. [チームで集まり、作成する成果物を決定する](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/portfolios.md)
-6. [チェックリストの提出](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md)　1周目が終わるまでに提出してください。提出時はdiscordにチームのリポジトリを貼ってください。
+6. [チェックリストの提出](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/checklist.md)　成果物の開発に移る前に提出してください。提出時はdiscordにチームのリポジトリを貼ってください。
 7. [デプロイ](https://github.com/recursion-git-work-shop/about-beginner-teamdev/blob/main/deploy.md)
 
 これらをやっていただきたいです。
